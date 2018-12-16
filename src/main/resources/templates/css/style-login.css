@@ -6,7 +6,7 @@ html,body{
 
 
 
-#registration-form{
+#login-form{
 
 
 }
@@ -15,15 +15,18 @@ header{
     height: 100%;
     min-height: 50%;
 }
-#top-registration{
-    height: 100%;
-    background: url("../img/login-background.jpg");
-    -webkit-background-size: cover;
-    background-size: cover;
+#top-login{
+    background-color: #383B53;
 }
 
 h1,h2,h3,h4,h5,h6{
     font-family: "Indie+Flower";
 }
 
+#bottom{
+    background-color: #D1CAA1;
+}
 
+footer{
+    height: 50%;
+}

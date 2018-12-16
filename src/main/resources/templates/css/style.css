@@ -15,9 +15,7 @@ header {
 }
 
 #intro {
-    background: url("../img/header.jpg");
-    -webkit-background-size: cover;
-    background-size: cover;
+    background-color: #32213A;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -26,9 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #bottom {
 
-    background: url("../img/bottom.jpg");
-    -webkit-background-size: cover;
-    background-size: cover;
+    background-color: #66717E;
     height: 100%;
 }
 
